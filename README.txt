@@ -1,0 +1,2 @@
+Para replicar los resultados lo unico que hay que hacer es ejecutar primero el script de construccion de universo y despues el de carteras.
+Para las graficas hay que cambiar los nombres a mano. Pero incluye un ejemplo de como se haria para la varianza muestral.
